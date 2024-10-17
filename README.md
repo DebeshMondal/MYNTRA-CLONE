@@ -87,6 +87,6 @@ To contribute:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Debesh Mondal – [LinkedIn](https://www.linkedin.com/in/debesh-mondal/) – debesh@example.com
+Debesh Mondal – [LinkedIn](https://www.linkedin.com/in/debesh-mondal-999167296/)
 
 Project Link: [https://github.com/DebeshMondal/MYNTRA-CLONE](https://github.com/DebeshMondal/MYNTRA-CLONE)
