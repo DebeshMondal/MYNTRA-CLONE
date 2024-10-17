@@ -64,12 +64,6 @@ npm install
 - Apply discount codes to see how they affect the total price.
 - Complete the purchase (feature for future implementation).
 
-## Screenshots
-![Home Page](path_to_homepage_screenshot)
-*Home Page of MYNTRA CLONE*
-
-![Cart Page](path_to_cartpage_screenshot)
-*Cart Page showing added products*
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
